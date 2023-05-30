@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateussMoraes
+- 👋 Hi, I’m @MateussMoraes.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and NodeJS
 
