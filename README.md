@@ -13,4 +13,8 @@
 <img src="https://media.tenor.com/A32q04Ml-DwAAAAC/tony-tony-tony-chopper.gif" height="175" />
 </div>
 
+<div> Conheça meus projetos, tantos institucionais quanto pessoais.</div>
+
+<div>Builds na Vercel:</div>
+<div><a href="https://curriculo-nextjs.vercel.app">https://curriculo-nextjs.vercel.app/</a></div>
 
