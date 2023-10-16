@@ -22,15 +22,6 @@
 </div>
 &nbsp;
 
-<div></div>
-
-<div> Conheça meus projetos, tantos institucionais quanto pessoais.</div>
-
-<div>Builds na Vercel:</div>
-<div><strong>Currículo </strong><a href="https://curriculo-nextjs.vercel.app">https://curriculo-nextjs.vercel.app/</a></div>
-
-&nbsp;
-
 
 
 
