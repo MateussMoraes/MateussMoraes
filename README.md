@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m @MateussMoraes.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 👀 I’m interested in Web Development.
+- </> Web Technologies: Frameworks React and Next.js.
+- 🖧 Back-end tecnologies: Languages Javascript and Typescript with Node.js.
+- 🌱 I’m currently learning and studying React Native, Kotlin and Java with Spring.
 
 - Technologies
 
